@@ -6,9 +6,9 @@ Takım X
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Sevgi Erdogan: Product Owner
+- Dursun Esitmez: Scrum Master
+- Edanur Cakmak: Team Member/Developer
 
 ## Ürün İsmi
 
