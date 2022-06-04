@@ -8,7 +8,7 @@ Flutter32
 
 - Sevgi Erdogan: Product Owner
 - Dursun Esitmez: Scrum Master
-- Edanur Cakmak: Team Member/Developer
+- Edanur Çakmak: Team Member/Developer
 - Müyesser Altun: Team Member/Developer
 - Resul Bozdemir: Team Member/ Developer
 
