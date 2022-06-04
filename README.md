@@ -66,6 +66,7 @@ Market listem App uygulaması ile daha bilinçli haraket edileceğinden ihtiyaca
 - **Ürün Durumu**: Ekran görüntüleri:
  
 ![image](https://user-images.githubusercontent.com/104387452/172000344-d02174c5-9c16-47b7-963c-a139d5433bf2.png)
+![image](https://user-images.githubusercontent.com/104387452/172000566-c8a862a0-1ea1-4bc0-946c-4a3f6fe4ebcf.png)
 
 
 
