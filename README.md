@@ -64,13 +64,14 @@ Market listem App uygulaması ile daha bilinçli haraket edileceğinden ihtiyaca
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+ 
+![image](https://user-images.githubusercontent.com/104387452/172000344-d02174c5-9c16-47b7-963c-a139d5433bf2.png)
+![image](https://user-images.githubusercontent.com/104387452/172000383-f17dc70f-b20d-4cfb-a4cf-767cbb8c62b3.png)
 
 - **Sprint Review**: 
 Alınan Kararlar: Bu sprinte alınan kararlara göre sonuca ulaştırılan Market listem App uygulaması için çalışmasının kontrol edilmesi ve optimizasyon testleri yapılmasına karar verilmiştir. Uygulamanın arayüzünün nasıl geliştirilebileceğine dair beyin fırtınası yapılmıştır. Oluşabilecek hatalar için gerekli çalışmaların yapılmıştır. Çıkan ürünün testlerinde bir problem görülmese de sağlamasının yapılması planlanmaktadır. Bunun dışında bu sprint etkili ve verimli geçmiştir.
 
-Sprint Review katılımcıları:  Sevgi Erdogan, Dursun Esitmez, Edanur Cakmak, Müyesser Altun, Resul Bozdemir
+Sprint Review katılımcıları:  Sevgi Erdogan, Dursun Esitmez, Edanur Çakmak, Müyesser Altun, Resul Bozdemir
 
 - **Sprint Retrospective:**
   - Uygulamanın çalışmasında herhangi bir hatanın olup olmadığını kontrol etmek
