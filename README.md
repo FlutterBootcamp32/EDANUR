@@ -66,7 +66,8 @@ Market listem App uygulaması ile daha bilinçli haraket edileceğinden ihtiyaca
 - **Ürün Durumu**: Ekran görüntüleri:
  
 ![image](https://user-images.githubusercontent.com/104387452/172000344-d02174c5-9c16-47b7-963c-a139d5433bf2.png)
-![image](https://user-images.githubusercontent.com/104387452/172000383-f17dc70f-b20d-4cfb-a4cf-767cbb8c62b3.png)
+![image](https://user-images.githubusercontent.com/104387452/172000491-7e68cf85-5727-4d31-bed9-92886e42298b.png)
+
 
 - **Sprint Review**: 
 Alınan Kararlar: Bu sprinte alınan kararlara göre sonuca ulaştırılan Market listem App uygulaması için çalışmasının kontrol edilmesi ve optimizasyon testleri yapılmasına karar verilmiştir. Uygulamanın arayüzünün nasıl geliştirilebileceğine dair beyin fırtınası yapılmıştır. Oluşabilecek hatalar için gerekli çalışmaların yapılmıştır. Çıkan ürünün testlerinde bir problem görülmese de sağlamasının yapılması planlanmaktadır. Bunun dışında bu sprint etkili ve verimli geçmiştir.
