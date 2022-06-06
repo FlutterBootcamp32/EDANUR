@@ -65,6 +65,8 @@ Market listem App uygulaması ile daha bilinçli haraket edileceğinden ihtiyaca
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
+Flutter 3.0.1 versiyonu kullanılmıştır.
+Android Studio version 2021.1 kullanılmıştır.
 ![image](https://user-images.githubusercontent.com/104387452/172000747-2fd8909f-98fc-48a5-936f-e8204f73e932.png)
 ![image](https://user-images.githubusercontent.com/104387452/172000566-c8a862a0-1ea1-4bc0-946c-4a3f6fe4ebcf.png)
 
@@ -81,7 +83,9 @@ Sprint Review katılımcıları:  Sevgi Erdogan, Dursun Esitmez, Edanur Çakmak,
   - Gerekli optimizasyonların yapılması
 
 
--**Diğer Notlar**: Projemize 3.sprinte dahil olduğumuz için bu sprint yoğun geçmesine rağmen bir sonuç elde edebildik. Düzenli ve planlı bir süreç işletiğimizden dolayı herhangi bir problem yaşamadık. Market Listem App uygulamasını belirli iş yüklerine bölerek oluşturduk.
+-**Diğer Notlar**: Flutter 3.0.1 versiyonu projemizde kullanılmıştır.
+Android Studio version 2021.1 kullanılmıştır
+Projemize 3.sprinte dahil olduğumuz için bu sprint yoğun geçmesine rağmen bir sonuç elde edebildik. Düzenli ve planlı bir süreç işletiğimizden dolayı herhangi bir problem yaşamadık. Market Listem App uygulamasını belirli iş yüklerine bölerek oluşturduk.
 - 
 
 ---
